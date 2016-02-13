@@ -354,8 +354,8 @@ tools for InfernalTG :
 >#32.share
 help all plugin soon :D ,"
 You Can Get Bot version by sending !version,"
-Master admin : @ArashInfernal ,"
-our channel : @INFERNALTEAMCH ,"
+Master admin : @mahdib9 ,"
+master admin : @alfroshotak ,"
 
 ]]
   }
